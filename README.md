@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amazon Clone — Full Stack (Frontend + Backend + Database)
 
 This turns the static frontend into a real full-stack app:
@@ -102,3 +103,6 @@ docker-compose, ECS/Fargate, Cloud Run, Kubernetes, etc.):
 - Add rate limiting on the API and stronger input validation if exposed
   publicly.
 - Change the default Postgres password before deploying anywhere public.
+=======
+# My_Project
+>>>>>>> 92be105474a5e0dbf1beea3bf322b9f3a57888ff
